@@ -1,0 +1,7 @@
+Este é o exemplo de ficheiro de texto file3
+
+eu adicionei esta linha
+
+e esta tambem
+
+e apaguei um bocado da primeira
